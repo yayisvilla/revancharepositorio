@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:aquamarine;
+   
+}
+.texto{
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
